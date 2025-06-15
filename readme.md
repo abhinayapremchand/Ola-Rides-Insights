@@ -29,7 +29,7 @@ Ola_Ride_Insights/
 
 ## Dataset
 The dataset used in this project can be accessed from the following Google Drive link:
-https://drive.google.com/drive/folders/12onyQF6Zh_M8voCPSdSpt4BSfw6T3tg3?usp=sharing
+https://docs.google.com/spreadsheets/d/15aV9y0b_E7oqYu_kkCot8nmAU4tDAAjB/edit?gid=1375233417#gid=1375233417
 
 
 ## How to Run
