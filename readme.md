@@ -35,13 +35,14 @@ https://docs.google.com/spreadsheets/d/15aV9y0b_E7oqYu_kkCot8nmAU4tDAAjB/edit?gi
 ## How to Run
 To launch the Streamlit app locally:
 bash
+
 streamlit run app.py
 
 
-Notes
+## Notes
 Power BI screenshots are saved in the powerbi/ folder (free version used).
 
 All SQL insights are included in the sql/ folder.
 
-Author
+## Author
 Abhinaya Premchand
